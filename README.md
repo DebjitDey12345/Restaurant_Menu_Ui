@@ -1,4 +1,4 @@
-# It is Restaurant Website UI  implemented by HTML & CSS, Here the screenshot of the project-
+# It is a Restaurant Website UI  implemented by HTML & CSS, Here the screenshot of the project-
 ![Screenshot (155)](https://github.com/user-attachments/assets/1683b9d3-a9c3-478e-8a6f-cdffe573576d)
 
 
